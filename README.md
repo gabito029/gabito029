@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Gabriela
 
-🎓 **Estudiante de Ingenieria de Sistem,as en la UNSCH** apasionada por la creación de proyectos con propósito.
+🎓 **Estudiante de Ingenieria de Sistemas en la UNSCH** apasionada por la creación de proyectos con propósito.
 
 ---
 
