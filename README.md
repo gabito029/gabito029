@@ -1,4 +1,16 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Gabriela
+
+🎓 **Estudiante de Ingenieria de Sistem,as en la UNSCH** apasionada por la creación de proyectos con propósito.
+
+---
+
+### 🚀 Sobre mí
+
+* 💡 **Creación de soluciones:** Me apasiona identificar problemas y transformarlos en soluciones tecnológicas funcionales, eficientes e intuitivas.
+* 📚 **En formación constante:** Enfocada en construir bases sólidas de programación, buenas prácticas de código y arquitectura de software.
+* 🛠️ **Enfoque práctico:** Aplico lo aprendido construyendo proyectos reales y colaborando en equipo.
+* 🌱 **Actualmente aprendiendo:** **Node.js, React**
+* 📫 **Contacto:** gabriela.rodrigo.27@unsch.edu.pe
 
 <!--
 **gabito029/gabito029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
