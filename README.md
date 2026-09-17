@@ -11,7 +11,7 @@
 * **Enfoque práctico:** Aplico lo aprendido construyendo proyectos reales y colaborando en equipo.
 * **Actualmente aprendiendo:** **Node.js, React**
 * **Contacto:** gabriela.rodrigo.27@unsch.edu.pe
-<img width="462" height="304" alt="image" src="https://github.com/user-attachments/assets/8b228cb3-b923-4031-b2dc-f38bf30d3f5e" />
+
 
 <!--![Uploading image.png…]()
 
